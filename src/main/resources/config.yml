@@ -1,0 +1,4 @@
+messages:
+  prefix: '&8[&bExample&8] '
+features:
+  metrics: false
